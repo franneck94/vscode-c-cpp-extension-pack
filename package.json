@@ -1,0 +1,36 @@
+{
+  "name": "vscode-c-cpp-dev-extension-pack",
+  "displayName": "C/C++ Dev Extension Pack",
+  "description": "Popular VSCode extensions for C/C++ development.",
+  "version": "0.0.1",
+  "publisher": "franneck94",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#222222",
+    "theme": "dark"
+  },
+  "keywords": [
+    "c",
+    "c++",
+    "cpp",
+    "extension pack",
+    "doxygen",
+    "unit test"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "url": "https://github.com/franneck94/vscode-c-cpp-dev-extension-pack"
+  },
+  "homepage": "https://github.com/franneck94/vscode-c-cpp-dev-extension-pack",
+  "bugs": {
+    "url": "https://github.com/franneck94/vscode-c-cpp-dev-extension-pack/issues"
+  },
+  "extensionPack": [
+    "ms-vscode.cpptools"
+  ]
+}
