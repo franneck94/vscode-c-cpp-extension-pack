@@ -1,6 +1,6 @@
 {
-  "name": "vscode-c-cpp-dev-extension-pack",
-  "displayName": "C/C++ Dev Extension Pack",
+  "name": "vscode-c-cpp-extension-pack",
+  "displayName": "C/C++ Extension Pack",
   "description": "Popular VSCode extensions for C/C++ development.",
   "version": "0.0.1",
   "publisher": "franneck94",
@@ -16,21 +16,27 @@
     "c",
     "c++",
     "cpp",
-    "extension pack",
-    "doxygen",
-    "unit test"
+    "extension pack"
   ],
   "categories": [
     "Extension Packs"
   ],
   "repository": {
-    "url": "https://github.com/franneck94/vscode-c-cpp-dev-extension-pack"
+    "url": "https://github.com/franneck94/vscode-c-cpp-extension-pack"
   },
-  "homepage": "https://github.com/franneck94/vscode-c-cpp-dev-extension-pack",
+  "homepage": "https://github.com/franneck94/vscode-c-cpp-extension-pack",
   "bugs": {
-    "url": "https://github.com/franneck94/vscode-c-cpp-dev-extension-pack/issues"
+    "url": "https://github.com/franneck94/vscode-c-cpp-extension-pack/issues"
   },
   "extensionPack": [
-    "ms-vscode.cpptools"
+    "jeff-hykin.better-cpp-syntax",
+    "ms-vscode.cpptools",
+    "ms-vscode.cpptools-themes",
+    "franneck94.c-cpp-runner",
+    "twxs.cmake",
+    "ms-vscode.cmake-tools",
+    "bbenoist.doxygen",
+    "cschlosser.doxdocgen",
+    "matepek.vscode-catch2-test-adapter"
   ]
 }
