@@ -2,7 +2,7 @@
   "name": "vscode-c-cpp-extension-pack",
   "displayName": "C/C++ Extension Pack",
   "description": "Popular VSCode extensions for C/C++ development.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "franneck94",
   "engines": {
     "vscode": "^1.50.0"
