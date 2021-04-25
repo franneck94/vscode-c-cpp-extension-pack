@@ -2,7 +2,7 @@
   "name": "vscode-c-cpp-dev-extension-pack",
   "displayName": "C/C++ Extension Pack",
   "description": "Popular VSCode extensions for C/C++ development.",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "publisher": "franneck94",
   "engines": {
     "vscode": "^1.50.0"
@@ -31,12 +31,12 @@
   "extensionPack": [
     "jeff-hykin.better-cpp-syntax",
     "ms-vscode.cpptools",
+    "franneck94.c-cpp-runner",
     "ms-vscode.cpptools-themes",
     "twxs.cmake",
     "ms-vscode.cmake-tools",
     "bbenoist.doxygen",
     "cschlosser.doxdocgen",
-    "matepek.vscode-catch2-test-adapter",
     "hbenl.vscode-test-explorer"
   ]
 }

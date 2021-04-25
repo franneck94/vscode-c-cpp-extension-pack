@@ -6,10 +6,10 @@ The best VSCode extensions to for C/C++ programmers in one extension pack.
 
 * [Better C++ Syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-cpp-syntax) - The bleeding edge of C-like syntaxes.
 * [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) - C/C++ IntelliSense, debugging, and code browsing.
+* [C/C++ Runner](https://marketplace.visualstudio.com/items?itemName=franneck94.c-cpp-runner) - Compile and run your C/C++ code with ease..
 * [C/C++ Themes](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-themes) - UI Themes for C/C++ extension.
 * [CMake](https://marketplace.visualstudio.com/items?itemName=twxs.cmake) - CMake langage support for Visual Studio Code.
 * [CMake Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools) - Extended CMake support in Visual Studio Code.
-* [C++ TestMate](https://marketplace.visualstudio.com/items?itemName=matepek.vscode-catch2-test-adapter) - Run Catch2, GTEST and DOCtest tests using the Test Explorer.
 * [Test Explorer UI](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-test-explorer) - This extension provides an extensible user interface for running your tests in VS Code.
 
 ## Want to see your extension added?
