@@ -2,7 +2,7 @@
 
 ## Version 0.3.0
 
-- **Feature**: Addec clang-format and clang-tidy
+- **Feature**: Added clang-format and clang-tidy
 
 ## Version 0.2.0
 
