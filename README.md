@@ -7,6 +7,8 @@ The best VSCode extensions to for C/C++ programmers in one extension pack.
 * [Better C++ Syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-cpp-syntax) - The bleeding edge of C-like syntaxes.
 * [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) - C/C++ IntelliSense, debugging, and code browsing.
 * [C/C++ Runner](https://marketplace.visualstudio.com/items?itemName=franneck94.c-cpp-runner) - Compile and run your C/C++ code with ease.
+* [Clang-Foramt](https://marketplace.visualstudio.com/items?itemName=xaver.clang-format) - Clang-Format is a tool to format C/C++/Java/JavaScript/Objective-C/Objective-C++/Protobuf code.
+* [Clang-Tidy](https://marketplace.visualstudio.com/items?itemName=notskm.clang-tidy) - Clang-tidy is a C/C++ “linter” tool. Its purpose is to provide an extensible framework for diagnosing and fixing typical programming errors.
 * [CMake](https://marketplace.visualstudio.com/items?itemName=twxs.cmake) - CMake langage support for Visual Studio Code.
 * [CMake Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools) - Extended CMake support in Visual Studio Code.
 * [Test Explorer UI](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-test-explorer) - This extension provides an extensible user interface for running your tests in VS Code.
