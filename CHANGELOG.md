@@ -1,5 +1,9 @@
 # C/C++ Extension Pack Change Log
 
+## Version 0.5.0
+
+- **Feature**: Removed old test explorer
+
 ## Version 0.4.0
 
 - **Feature**: Removed clang-tidy

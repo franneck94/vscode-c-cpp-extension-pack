@@ -10,7 +10,6 @@ The best VSCode extensions to for C/C++ programmers in one extension pack.
 * [Clang-Foramt](https://marketplace.visualstudio.com/items?itemName=xaver.clang-format) - Clang-Format is a tool to format C/C++/Java/JavaScript/Objective-C/Objective-C++/Protobuf code.
 * [CMake](https://marketplace.visualstudio.com/items?itemName=twxs.cmake) - CMake langage support for Visual Studio Code.
 * [CMake Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools) - Extended CMake support in Visual Studio Code.
-* [Test Explorer UI](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-test-explorer) - This extension provides an extensible user interface for running your tests in VS Code.
 
 ## Want to see your extension added?
 
