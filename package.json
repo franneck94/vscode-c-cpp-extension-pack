@@ -2,10 +2,10 @@
   "name": "vscode-c-cpp-dev-extension-pack",
   "displayName": "C/C++ Extension Pack",
   "description": "Popular VSCode extensions for C/C++ development.",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "publisher": "franneck94",
   "engines": {
-    "vscode": "^1.50.0"
+    "vscode": "^1.58.0"
   },
   "icon": "icon.png",
   "galleryBanner": {
@@ -32,6 +32,7 @@
     "jeff-hykin.better-cpp-syntax",
     "ms-vscode.cpptools",
     "franneck94.c-cpp-runner",
+    "franneck94.vscode-c-cpp-config",
     "twxs.cmake",
     "ms-vscode.cmake-tools",
     "bbenoist.doxygen",

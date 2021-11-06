@@ -1,5 +1,9 @@
 # C/C++ Extension Pack Change Log
 
+## Version 0.6.0
+
+- **Feature**: Added C/C++ Config Generator
+
 ## Version 0.5.0
 
 - **Feature**: Removed old test explorer
