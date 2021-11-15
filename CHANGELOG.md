@@ -1,5 +1,10 @@
 # C/C++ Extension Pack Change Log
 
+## Version 0.7.0
+
+- **Info**: Removed "xaver.clang-format" since clang-format is already in C/C++ extension
+- **Feature**: Added "vadimcn.vscode-lldb", user should use this for debugging on MacOS with ARM chip
+
 ## Version 0.6.0
 
 - **Feature**: Added C/C++ Config Generator
