@@ -1,5 +1,12 @@
 # C/C++ Extension Pack Change Log
 
+## Version 0.8.0
+
+- **Info**: Added the following extensions:
+  - C/C++ Include Guard
+  - x86 and x86_64 Assembly
+  - C/C++ Themes
+
 ## Version 0.7.0
 
 - **Info**: Removed "xaver.clang-format" since clang-format is already in C/C++ extension
