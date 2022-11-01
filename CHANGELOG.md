@@ -1,5 +1,9 @@
 # C/C++ Extension Pack Change Log
 
+## Version 0.9.0
+
+- Removed C/C++ Include Guard
+
 ## Version 0.8.0
 
 - **Info**: Added the following extensions:

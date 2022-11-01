@@ -17,7 +17,6 @@ The best VSCode extensions to for C/C++ programmers in one extension pack.
   * [Better C++ Syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-cpp-syntax) - The bleeding edge of C-like syntaxes.
   * [CMake](https://marketplace.visualstudio.com/items?itemName=twxs.cmake) - CMake langage support for Visual Studio Code.
   * [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) - User should use this for debugging on MacOS with ARM chip.
-  * [C/C++ Include Guard](https://marketplace.visualstudio.com/items?itemName=akiramiyakoda.cppincludeguard) - Add, remove or update include guard macros.
   * [x86 and x86_64 Assembly](https://marketplace.visualstudio.com/items?itemName=13xforever.language-x86-64-assembly) - Cutting edge x86 and x86_64 assembly syntax highlighting.
 
 ## Want to see your extension added?
