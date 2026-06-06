@@ -2,7 +2,7 @@
   "name": "vscode-c-cpp-dev-extension-pack",
   "displayName": "C/C++ Extension Pack",
   "description": "Popular VSCode Extensions for C/C++",
-  "version": "0.10.0",
+  "version": "0.11.0",
   "publisher": "franneck94",
   "engines": {
     "vscode": "^1.77.0"
@@ -30,9 +30,6 @@
   },
   "extensionPack": [
     "ms-vscode.cpptools-extension-pack",
-    "ms-vscode.cpptools-themes",
-    "ms-vscode.cpptools",
-    "ms-vscode.cmake-tools",
     "franneck94.c-cpp-runner",
     "franneck94.vscode-c-cpp-config",
     "twxs.cmake",
